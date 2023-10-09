@@ -215,6 +215,10 @@ input, select, textarea {
 		font-size: 1em;
 	}
 
+	h3.wedding-button:hover {
+		background-color: #d0788c!important;
+	}
+
 	h4 {
 		font-size: 0.8em;
 	}
