@@ -3472,6 +3472,7 @@ header .close:hover{
   height: 45px;
   border-radius: 4px;
   border: 1px solid #757171;
+	padding: 4px;
 }
 .field i{
   width: 50px;
@@ -3490,6 +3491,8 @@ header .close:hover{
   padding: 5px 18px;
   background: #fc686f;
 	flex-shrink: 0;
+	border-radius: 30px;
+  height: 100%;
 }
 
 .black-bg {
